@@ -63,7 +63,7 @@ Text2emotion is a python package developed to find the appropriate emotions embe
 
 I will dig out the emotion scores from each post and calculate the average index.
 
-![](https://github.com/chanchanngann/webscrape_btsmeal/blob/master/images/03_emotions.png)
+![](https://github.com/chanchanngann/webscrape_btsmeal/blob/master/images/03_emotions.PNG)
 
 ![](https://github.com/chanchanngann/webscrape_btsmeal/blob/master/images/04_emotions_radar.png)
 
