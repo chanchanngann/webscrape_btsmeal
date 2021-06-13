@@ -1,5 +1,7 @@
 # Social listening #btsmeal by webscraping IG data
 
+pls find code & dynamic output here: https://nbviewer.jupyter.org/github/chanchanngann/webscrape_btsmeal/blob/dd5c38c746e6fe3e094aa956ff39014bfe5e31f9/webscrape_btsmeal_R.ipynb
+
 ### Background
 The BTS Meal by McDonald, is definitely a hot topic around the world recently. Although I am not a BTS fan, the unprecedented levels of hype caught my attention. I am curious about the reactions from the BTS army (BTS fans) upon getting the limited-edition meal, that is the social media sentiment "online mood" towards the campaign/brand.
 
